@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212624855939', 'hamza', true],
+['212624855939', 'hamza', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212624855939',
+ pairingNumber: '212624855939',
+ nameown: 'hamza',
+ nomerown: '212624855939',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'hamza',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -46,9 +46,9 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/hamza___boyka_',
+ sgh:  'https://github.com/hamzaamirni1',
+ sgc: 'https://whatsapp.com/channel/0029Va5mXGNLdQeXkib1M82X'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
